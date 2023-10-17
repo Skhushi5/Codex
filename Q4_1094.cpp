@@ -1,3 +1,9 @@
+/*
+ * Name: Soumi Batabyal
+ * Reg No: 2341002065
+ * PS LINK: https://cses.fi/problemset/task/1094/
+ */
+
 #include <iostream>
 using namespace std;
 #define ll long long
